@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Rahul
-- 👀 I’m interested in Web and Android Development
-- 🌱 I’m currently learning html,css and javascript
-- 💞️ I’m looking to collaborate on web development
+- 👀 I’m interested in Nothing
+- 🌱 I’m currently learning Nothing
+- 💞️ I’m looking to collaborate on Anything
